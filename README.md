@@ -9,7 +9,7 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=DinoTheDeveloper&style=flat-square&color=blue" alt=""/>
 <h2>
- Hey there! I'm Costandino, a software engineer with two years of work experience under my belt. I absolutely love coding, working out at the gym, and riding bikes. But you know what I'm really passionate about? Flying aeroplanes! I'm a certified pilot and it brings me an incredible sense of freedom.
+ Hey there! I'm Costandino, a software engineer. I absolutely love coding, working out at the gym, riding bikes, and flying aeroplanes!.
 <br /> <br>
 I'm always eager to learn new things and take on challenges. Working in teams is where I shine, delivering the best results through collaboration. So if you're looking for a dedicated software engineer who codes with passion, loves to fly, and thrives in a team environment, I'm your guy. Let's create something amazing together!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -18,7 +18,7 @@ I'm always eager to learn new things and take on challenges. Working in teams is
 
  ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,6 +26,9 @@ I'm always eager to learn new things and take on challenges. Working in teams is
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
