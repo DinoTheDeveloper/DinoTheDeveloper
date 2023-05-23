@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=DinoTheDeveloper&style=flat-square&color=blue" alt=""/>
 <h2>
  Hey there! I'm Costandino, a software engineer with two years of work experience under my belt. I absolutely love coding, working out at the gym, and riding bikes. But you know what I'm really passionate about? Flying aeroplanes! I'm a certified pilot and it brings me an incredible sense of freedom.
-<br>
+<br />
 I'm always eager to learn new things and take on challenges. Working in teams is where I shine, delivering the best results through collaboration. So if you're looking for a dedicated software engineer who codes with passion, loves to fly, and thrives in a team environment, I'm your guy. Let's create something amazing together!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
