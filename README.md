@@ -42,4 +42,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DinoTheDeveloper&theme=dark)](https://git.io/streak-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinoTheDeveloper&layout=compact&theme=vision-friendly-dark)](https://github.com/DinoTheDeveloper/github-readme-stats)
