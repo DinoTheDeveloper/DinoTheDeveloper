@@ -11,9 +11,8 @@
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=DinoTheDeveloper&style=flat-square&color=blue" alt=""/>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&pause=1000&color=F7F7F7&random=true&width=435&lines=Hey+There!)](https://git.io/typing-svg)
 <h2>
-<!--  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br /> <br /> -->
+ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br /> <br />
  I'm Costandino, a software engineer. I absolutely love coding, data science, running, mma, riding bikes, and forex trading!
 <br /> <br>
 I'm always eager to learn new things and take on challenges. Working in teams is where I shine, delivering the best results through collaboration. So if you're looking for a dedicated software engineer who codes with passion, loves to run, and thrives in a team environment, I'm your guy. Let's create something amazing together!
