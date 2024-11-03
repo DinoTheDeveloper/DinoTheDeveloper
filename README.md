@@ -41,7 +41,7 @@ I'm always eager to learn new things and take on challenges. Working in teams is
 
 ### :fire: My Stats :
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DinoTheDeveloper&theme=dracula&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DinoTheDeveloper&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br /> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinoTheDeveloper&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
